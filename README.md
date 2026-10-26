@@ -44,3 +44,7 @@ LUNILE:          1  2  3  4  5  6  7  8  9  10 11 12
 4. Alpha/Beta Test              [===]
 5. Lansare Oficială                 [=]
 6. Marketing & DAO                     [=========]
+
+
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
